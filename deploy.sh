@@ -15,7 +15,7 @@ git clone https://github.com/raphaellecorneau/webcloud.git
 #on créé un répertoire /var/www/html/webcloud/
 cd /var/www/html/webcloud
 
-#on copie le fichier dans webcloud
+#on copie le fichier dans webcloud 
 cp index.html /var/www/html/webcloud
 
 
