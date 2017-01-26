@@ -14,6 +14,7 @@ deploy.sh : script bash pour le déploiement
 Nous vous donnons toutes les informations ci-dessous pour déployer notre projet sur votre ordinateur. 
 
 Pour déployer le site, vous aurez au préalable besoin : 
+
     - D'un serveur comme Digital Ocean - voir lien dans le mail envoyé
     - Un terminal (Par exemple GitBash)
     - Une connexion internet 
@@ -22,6 +23,7 @@ Pour déployer le site, vous aurez au préalable besoin :
     - L'adresse IP de votre serveur (la notre : 178.62.58.24)
 
 Deploiement :
+
     - Ouvrir votre terminal 
     - Aller sur le dossier webcloud qui appartient au  cloud : $cd~...\FOLDER\
     - Connecter au serveur distant et déployer le fichier "deploy.sh" : $~ssh root @XXX.XXX.XXX.XXX < ./deploy.sh
