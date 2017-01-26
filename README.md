@@ -5,7 +5,7 @@ Architecture des SI édité par Raphaëlle Corneau et Marion Gérin-Roze
 
 # 0bjectif de projet : Ecrire un script qui déploie un site sur un serveur distant 
 
-Ainsi, vous trouverez dans notre dépot git deux documents :
+Vous trouverez dans notre dépot git deux documents :
 
 README.md : fichier contenant les informations concernant le déploiement
 
@@ -13,9 +13,8 @@ deploy.sh : script bash pour le déploiement
 
 Nous vous donnons toutes les informations ci-dessous pour déployer notre projet sur votre ordinateur. 
 
-Pour déployer le site, vous aurez besoin : 
-
-    - D'un serveur avec Linux (Nous avons utilisé Digital Ocean - voir lien dans le mail envoyé)
+Pour déployer le site, vous aurez au préalable besoin : 
+    - D'un serveur comme Digital Ocean - voir lien dans le mail envoyé
     - Un terminal (Par exemple GitBash)
     - Une connexion internet 
     - Une clé public et une clé privée provenant de votre ordinateur 
@@ -23,7 +22,6 @@ Pour déployer le site, vous aurez besoin :
     - L'adresse IP de votre serveur (la notre : 178.62.58.24)
 
 Deploiement :
-
     - Ouvrir votre terminal 
     - Aller sur le dossier webcloud qui appartient au  cloud : $cd~...\FOLDER\
     - Connecter au serveur distant et déployer le fichier "deploy.sh" : $~ssh root @XXX.XXX.XXX.XXX < ./deploy.sh
