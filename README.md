@@ -1,6 +1,6 @@
 # webcloud
 
-Architecture des SI édité par Raphaëlle Corneau et Marion Gérin-Roze
+Architecture des SI -  Raphaëlle Corneau et Marion Gérin-Roze
 
 
 # 0bjectif de projet : Ecrire un script qui déploie un site sur un serveur distant 
@@ -19,7 +19,7 @@ Pour déployer le site, vous aurez au préalable besoin :
     - Un terminal (Par exemple GitBash)
     - Une connexion internet 
     - Une clé public et une clé privée provenant de votre ordinateur 
-    - D'un droplet créer sur Digital Ocean (service payant) pour créer votre serveur Ubuntu.
+    - D'un droplet crée sur Digital Ocean (service payant) pour créer votre serveur Ubuntu.
     - L'adresse IP de votre serveur (la notre : 178.62.58.24)
 
 Deploiement :
