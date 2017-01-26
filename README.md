@@ -6,7 +6,7 @@ Auteurs : Raphaëlle Corneau et Marion Gérin-Roze
 
 
 
-0bjectif de projet : Ecrire un script qui déploie un site depuis un serveur à distance 
+0bjectif de projet : Ecrire un script qui déploie un site sur un serveur distant 
 
 Ainsi, vous trouverez dans notre dépot git deux documents :
 
