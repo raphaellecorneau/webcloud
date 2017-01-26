@@ -3,26 +3,28 @@
 Architecture des SI -  Raphaëlle Corneau et Marion Gérin-Roze
 
 
-# 0bjectif de projet : Ecrire un script qui déploie un site sur un serveur distant 
+# 0bjectif de projet : Ecrire un script qui permette le déploiement d'un site sur un serveur distant 
 
-Vous trouverez dans notre dépot git deux documents :
+Vous trouverez dans notre dépot git trois fichiers :
 
 README.md : fichier contenant les informations concernant le déploiement
 
 deploy.sh : script bash pour le déploiement 
 
+index.html : page html que l'on souhaite afficher 
+
 Nous vous donnons toutes les informations ci-dessous pour déployer notre projet sur votre ordinateur. 
 
-Pour déployer le site, vous aurez au préalable besoin : 
+Pour déployer le site(simple fichier html), vous aurez au préalable besoin : 
 
     - D'un serveur comme Digital Ocean - voir lien dans le mail envoyé
     - Un terminal (Par exemple GitBash)
     - Une connexion internet 
-    - Une clé public et une clé privée provenant de votre ordinateur 
+    - Une clé publique et une clé privée provenant de votre ordinateur 
     - D'un droplet crée sur Digital Ocean (service payant) pour créer votre serveur Ubuntu.
     - L'adresse IP de votre serveur (la notre : 178.62.58.24)
 
-Deploiement :
+Le déploiement se fait de la manière suivante :
 
     - Ouvrir votre terminal 
     - Aller sur le dossier webcloud qui appartient au  cloud : $cd~...\FOLDER\
