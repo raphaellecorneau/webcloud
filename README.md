@@ -32,4 +32,3 @@ Deploiement :
     - Connecter au serveur distant et déployer le fichier "deploy.sh" : $~ssh root @XXX.XXX.XXX.XXX < ./deploy.sh
     - Le processus peut mettre du temps, répondez oui s'il vous le demande. 
     - Aller sur votre navigateur et entrer votre l'adresse IP de votre serveur quand le processus est fini. 
-    - Go to your browser and enter your server's ip adress when the process has ended
