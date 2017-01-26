@@ -4,11 +4,14 @@ Architecture des SI
 
 Auteurs : Raphaëlle Corneau et Marion Gérin-Roze
 
+
+
 0bjectif de projet : Ecrire un script qui déploie un site depuis un serveur à distance 
 
 Ainsi, vous trouverez dans notre dépot git deux documents :
 
 README.md : fichier contenant les informations concernant le déploiement
+
 deploy.sh : script bash pour le déploiement 
 
 Nous vous donnons toutes les informations ci-dessous pour déployer notre projet sur votre ordinateur. 
